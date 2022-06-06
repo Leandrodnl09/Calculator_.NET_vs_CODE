@@ -1,0 +1,30 @@
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\CSHARP\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Calculator\obj\Debug\net6.0\ref\Calculator.dll
