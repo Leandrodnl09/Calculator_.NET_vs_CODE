@@ -4,12 +4,10 @@
 
 Este projeto você desenvolve uma calculadora do 0, com várias funções e menu.
 
-Curso Balta.io
+* Link 
 
-* Link *
+[Curso Balta](https://balta.io/)
 
-https://balta.io/
+*Link do meu LinkedIn
 
-*Link do meu LinkedIn*
-
-[https://www.linkedin.com/in/leandro-di-nardo-lazarin-694a59236/]
+[Leandro Di Nardo Lazarin](https://www.linkedin.com/in/leandro-di-nardo-lazarin-694a59236/)
