@@ -1,4 +1,4 @@
-# Calculator.NETvs.CODE
+# Calculator.NET em C#
 
 Calculadora básica feita no curso Baita.io em .NET!
 
