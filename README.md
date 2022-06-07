@@ -1,4 +1,4 @@
-# Calculator.NET em C#
+# Projeto_Calculator_.NET_C#
 
 Calculadora básica desenvolvida em CSharp (DOTNET).
 
