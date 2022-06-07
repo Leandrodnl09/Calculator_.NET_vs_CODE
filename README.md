@@ -1,8 +1,8 @@
 # Calculator.NET em C#
 
-Calculadora básica feita no curso Baita.io em .NET!
+Calculadora básica desenvolvida em CSharp (DOTNET).
 
-Este projeto você aprende o básico para programar uma calculadora do 0. 
+Este projeto você desenvolve uma calculadora do 0, com várias funções e menu.
 
 Curso Balta.io
 
